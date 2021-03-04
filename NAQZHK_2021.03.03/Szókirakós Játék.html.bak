@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  
+  
+  <title>Szókirakós Játék</title>
+
+
+
+<h2>Szókirakós Játék</h2>
+
+
+<br><br>
+
+
+
+<font size="16" color="red">SZÓKIRAKÓ JÁTÉK</font>
+
+
+
+<br><br>
+
+
+
+<p>
+<em>Adott egy 4*9-es négyzetháló.</em> A <strong>program</strong> megad egy- a négyzetháló feletti képhez
+kapcsolódó - szót vagy mondatot, majd ennek betűit <font  color="blue">összekeverve</font> elhelyezi ebben a
+négyzethálóban.
+</p>
+
+<p> <font size="16" color="black"><strong>A játékos feladata az, hogy az összekevert betűkb ől kirakja a szót</strong></font> </p>
+vagy mondatot a kijelölt helyen. <u>A betűket vízszintes vagy függőleges irányban egyenként
+lehet mozgatni.
+</u>
+
+
+<br><br>
+
+
+Ha a betű útját elállja egy másik betü, akkor az csak a másik betűig tolódik el.
+<font size="" color="" face=arial>Miután sikerült a betűket a megfelelő helyre mozgatni, a program ezt jelzi, ha viszont valamely
+hetüket felcserélnik, akkor azokra szinkiemeléssel hivja fel a
+<font size="" color="#ffff00">figyelmet.</font> 
+</font>
+
+
+
+<br><br><br>
+
+
+
+
+<strong><font size="18" color="red">Derékszögű hárnmszögben igaz Pitagorasz-tétele:</font></strong>
+
+<br><br>
+
+<font size="12" color=""><font size="" color="red"><b>a<sup>2</sup></font>+<font size="" color="blue"><b>b<sup>2</sup></font>=<font size="" color="green"><b>c<sup>2</sup></font></font>
+
+
+
+<br><br><br>
+
+
+<font size="16" color="blue"><strong>Általános bárnmszögek esetén is igaz:</strong></font>
+
+
+<br><br>
+
+
+<font size="12" color="green">α+β+γ=180°</font>
+
+
+
+</body>
+</html>
