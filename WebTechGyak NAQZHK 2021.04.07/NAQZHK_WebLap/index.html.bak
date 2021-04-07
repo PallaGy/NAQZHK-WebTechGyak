@@ -1,0 +1,46 @@
+<!doctype ht ml>
+<html lang="hu">
+<head>
+<title> Kész weblap </title>
+<meta http-equiv="Content-Type" content="text/htMl; í1,fü4@jlj1d:J-'>
+</head>
+<body>
+<table align="center" style="table-layout:fixed; font-family:1:ahoma; font -size :14pt;
+background:url( ' kepek/hatter. jpg'); color:white" border="0">
+<tr -;tyleo="hrieht: D0px" >
+<td col span="3" style="width:980px; text-align:center">
+<a href ="kezdolap.html" target="keret"><img src.="kepek/ iit. jpg" height="100" border="3" alt=""></a>
+</td>
+</tr>
+<tr styleo="heoight :30px; font weoight:bold">
+<td style="text-align:center">
+<a href ="adatbazis. html" target="keret" ><font style="color :~Aüt e;
+text-decoration :none">Adatbázis</font ></a>
+</td>
+<td style="text-align:center">
+<a href ="i nlernel.hlml" Lari;el="kerel"><font sl}•le="color:whit e;
+text-decorat ion:none">I nt ernet</font></a>
+</td>
+<td style- "text -align: center">
+<a href="prezentacio. html" target="keret"><font style="color :i.hi te;
+t ext-decoration :none">Prezentáció</font></a>
+</Ltl>
+</tr>
+Adatbázis:
+Internet:
+<tr style="height:350px">
+ctd colspan="3" style="text-align:center">
+ciframe name="keret" src="kezdolap . html" width="100%" height="350" scrolling="auto" frameborder="0"
+marginheight="10" marginwidth="20">
+A böngészö nem támogatja a belsö keretek használatát !
+</iframe>
+</td>
+</tr>
+<tr style="hei ght:40px">
+<td colspan="3" style="wi dth:640px; text-ali gn:center">
+&copy; Minden jog fenntartva!
+</td>
+</tr>
+</table>
+</body>
+</html>
