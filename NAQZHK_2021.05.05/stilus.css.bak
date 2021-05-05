@@ -1,0 +1,20 @@
+h1 {
+font-size: 40pt;
+color:#562145;
+margin-top: 30px;
+
+
+text-decoration:underline;
+text-transform:uppercase;
+font-style:italic;
+
+
+
+body{
+height: 600px;
+width: 700px ;
+border: 6px, navy double;
+border-color: orange;
+border-width: 20px ;
+border-style: ridge;
+

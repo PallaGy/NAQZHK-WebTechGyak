@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+
+<html lang="hu">
+
+<head>
+
+<meta charset="UTF -8">
+<title>CSS3</ title>
+<link rel ="stylesheet " href="stilus.css">
+
+ <style>
+
+ hl{
+
+ font-size :26pt ;
+ color: navy;
+
+    }
+
+</style>
+
+
+
+</head>
+  <body>
+
+
+ <hl style="font-size:18pt; margin-left:30px;">Ez az oldal fejlece  </hl>
+
+<div>
+
+ A CSS (angolul Cascading Style Sheets) a számítástechnikában egy stílusleíró nyelv, mely a HTML vagy XHTML típusú struktúrált dokumentumok
+megjelenését írja le.
+
+</div>
+
+<br/><br/>
+
+ <div>
+
+ A CSS elnevezésénél a Cascade szó rangsorolásra utal, tehát nem mindegy, hogy az adott stílus hol helyezkedik el a rangsorban . Az ütközések
+elkerülése végett még pár egyszerű szabály létezik. Az öröklés az XHTML elemek egymásba ágyazottságán a l apul , így az egymásba ágyazott elemek öröklik az őket
+tarta l mazó e l em beállításait . A szűkítés n ek a stílusok súl yozásánál van szerepe . Azaz ha meg akarjuk kü l önböztetni egy stílus fontosságát, akkor szűkebben,
+vagyis pontosabban kell megadnunk azt , így vehetjük rá a bö ngészőt, hogy használja . A stílusok el h elyezkedésüktől függően fontossági sorrendben állnak :
+Böngészöstílus, Felhasználói stílusJ Beágyazott stílusJ Szövegközi stílus.
+</div>
+
+</br></br></br>
+
+ <a href="http://w3schools.com/css/default.asp" target="ujablak">http://www.w3schools.com/css/default.asp</a>
+ 
+ 
+ </body>
+</html>
